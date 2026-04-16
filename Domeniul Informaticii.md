@@ -1,0 +1,12 @@
+[[Algoritmi si Structuri de Date]]
+[[Limbaje de Programare]]
+[[Arhitectura Calculatoarelor]]
+[[Sisteme de Operare]]
+[[Rețele de Calculatoare]]
+[[Ingineria Programării]]
+[[Baze de Date și Regăsirea Informației]]
+[[Inteligență Artificială și Robotică]]
+[[Grafică pe Calculator]]
+[[Interacțiunea Om-Calculator]]
+[[Cybersecurity]]
+[[Bioinformatica & Calcul Stiintific]]4
